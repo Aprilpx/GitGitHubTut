@@ -7,3 +7,6 @@ MY TO-DO LIST
 5. Play with my Dog Leo.
 6. Apply for remote jobs. 
 7. Practice code daily.
+8. Solve chess puzzles.
+9. Solve Suduko Logic
+10. Practice Git and GitHub
